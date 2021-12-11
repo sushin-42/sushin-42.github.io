@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://sushin-42.github.io/`,
     social: {
       twitter: `kylemathews`,
     },
@@ -57,6 +57,8 @@ module.exports = {
     //     trackingId: `ADD YOUR TRACKING ID HERE`,
     //   },
     // },
+    `gatsby-plugin-sitemap`,
+
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -125,8 +127,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sitemap`,
-
     
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
