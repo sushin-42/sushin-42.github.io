@@ -1,5 +1,5 @@
 ---
-title: Bye ByeBye ByeBye ByeBye Bye
+title: sushin seo test
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
