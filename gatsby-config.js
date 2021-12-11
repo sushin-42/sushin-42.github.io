@@ -125,7 +125,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-advanced-sitemap`
+    `gatsby-plugin-sitemap`,
 
     
     // this (optional) plugin enables Progressive Web App + Offline functionality
