@@ -23,7 +23,7 @@ jobs:
           GH_API_KEY: ${{ secrets.DEVSUSHIN_KEY }}
 
       - name: deploy
-        uses: maxheld83/ghpages@v0.2.1
+        uses: peaceiris/actions-gh-pages@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # API_KEY 에는 자신이 secret을 생성할 때 설정한 이름으로 넣어야 한다
