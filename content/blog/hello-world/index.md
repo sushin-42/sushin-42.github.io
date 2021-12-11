@@ -1,5 +1,5 @@
 ---
-title: sushin seo test
+title: sushin seo test 2
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
