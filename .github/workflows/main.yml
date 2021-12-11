@@ -30,7 +30,7 @@ jobs:
       - run: npm ci
       - run: npm run format
       - run: npm run build
-
+      - run: cp googlec7608bd32030ff79.html public/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
