@@ -57,7 +57,6 @@ module.exports = {
     //     trackingId: `ADD YOUR TRACKING ID HERE`,
     //   },
     // },
-    `gatsby-plugin-sitemap`,
 
     {
       resolve: `gatsby-plugin-feed`,
@@ -127,6 +126,8 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
+
     
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
