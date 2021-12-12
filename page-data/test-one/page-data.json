@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/test-one/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog"}},"markdownRemark":{"id":"24e73cb7-c4f3-5340-a2cb-fbd92469ddf8","excerpt":"test","html":"<h1>test</h1>\n<div class=\"gatsby-highlight\" data-language=\"text\"><pre class=\"language-text\"><code class=\"language-text\">yeah test</code></pre></div>","frontmatter":{"title":"sushin seo test 4","date":"December 12, 2021","description":"this is test post"}},"previous":{"fields":{"slug":"/new-beginnings/"},"frontmatter":{"title":"New Beginnings"}},"next":null},"pageContext":{"id":"24e73cb7-c4f3-5340-a2cb-fbd92469ddf8","previousPostId":"cd9d97d1-d778-5bf1-a891-bc9c7031e07d","nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
